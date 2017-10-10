@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kettle-engine-6.1.0.1-196">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kettle-engine-6.1.0.1-196.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

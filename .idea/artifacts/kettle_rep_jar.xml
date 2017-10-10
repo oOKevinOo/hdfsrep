@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kettle-rep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kettle_engine_rep</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="kettle-rep.jar">
+      <element id="module-output" name="kettle-rep" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-auth-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-common-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-hdfs-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htrace-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-core-6.1.0.1-196.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

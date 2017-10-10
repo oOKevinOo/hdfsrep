@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metastore-6.1.0.1-196">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/metastore-6.1.0.1-196.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
